@@ -22,3 +22,6 @@ I am a Penetration tester ㊙️ and part time bug bounty hunter 🔗
 - I'm working as a penetration tester and contributing to security
     
 ### 🛠️ Languages and Tools: 
+<div>
+  <img src=" https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>

@@ -12,8 +12,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
 ---
-### 👨‍💻: About Me:
+### 👨‍💻 About Me:-
+    I am a Penetration tester ㊙️ and part time bug bounty hunter 🔗
+    - I'm working as a penetration tester and contributing to security
     
+### 🛠️ Languages and Tools: 

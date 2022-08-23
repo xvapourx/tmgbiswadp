@@ -8,20 +8,19 @@
 </div>
 
 <div id="badges" align="center" >
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/tmgbiswadp/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/tmgbiswadp">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    <img src="https://logovectordl.com/wp-content/uploads/2020/04/hackerone-logo-vector.png" alt="hackerone Badge"/>
 </div>
 
 ---
 ### 👨‍💻 About Me:-
+I am Bishwadeep Tamang, a security guy.
+- Exploring golang.
+- In my free time, I hunt for security bugs 🐛 on hackerone. 
     
-I am a Penetration tester ㊙️ and part time bug bounty hunter 🔗
-- I'm working as a penetration tester and contributing to security
-    
-### 🛠️ Languages and Tools: 
+### 🛠️ Languages:- 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
 </div>

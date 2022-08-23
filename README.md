@@ -1,3 +1,8 @@
+### 👨‍💻 About Me
+I am Bishwadeep Tamang, a security guy.
+- Exploring golang.
+- In my free time, I hunt for security bugs 🐛 on hackerone. 
+
 <h1>
 Ola 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -11,10 +16,7 @@ Ola
 </div>
 
 ---
-### 👨‍💻 About Me
-I am Bishwadeep Tamang, a security guy.
-- Exploring golang.
-- In my free time, I hunt for security bugs 🐛 on hackerone. 
+
     
 ### 🛠️ Languages:- 
 <div>

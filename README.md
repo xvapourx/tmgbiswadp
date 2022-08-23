@@ -16,5 +16,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - In my free time, I look for 🐛 on hackerone. I go by the alias [vapour](https://hackerone.com/vapour) 1
 - Exploring golang in my free time.
 
-***Languages ***
-<code><img height="20" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/go.png"></code>
+**Languages **
+
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/go.png"></code>

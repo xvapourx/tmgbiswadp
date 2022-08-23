@@ -6,7 +6,6 @@
   <img align="left" alt="Bishwadeep's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
----
 Hi, I'm Bishwadeep Tamang from Nepal, a passionate security enthusiast. I will update this as I am currently upgrading myself.
 
 ---

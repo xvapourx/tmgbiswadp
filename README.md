@@ -7,12 +7,10 @@
 </a>
 
 ---
-Hi, i'm Bishwadeep Tamang from Nepal, a passionate security enthusiast.
-
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Hi, I'm Bishwadeep Tamang from Nepal, a passionate security enthusiast. I will update this as I am currently upgrading myself.
 
 ---
 - Full time security guy working as a penetration tester 
 - In my free time, I look for 🐛 on hackerone. I go by the alias [vapour](https://hackerone.com/vapour) 1
-- Exploring .go in my free time.
-- Love open source 💚
+- Exploring `.go` and learning about open source in my free time.
+- 📫 Reach me: [twitter.com/tmgbiswadp](https://twitter.com/tmgbiswadp)

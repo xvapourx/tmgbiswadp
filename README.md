@@ -23,5 +23,5 @@ I am a Penetration tester ㊙️ and part time bug bounty hunter 🔗
     
 ### 🛠️ Languages and Tools: 
 <div>
-  <img src=" https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Git" alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
 </div>
